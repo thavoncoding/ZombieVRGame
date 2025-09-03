@@ -1,0 +1,3 @@
+Thankyou for purchasing I hope this pack is useful to you, if you would like to support me then leaving a review would be appreciated :)
+
+Please note this asset works well in the render pipelines Built In and HDRP, but in URP it can get slight artifacts with shadows, this can be fixed by turning off shadows for the material

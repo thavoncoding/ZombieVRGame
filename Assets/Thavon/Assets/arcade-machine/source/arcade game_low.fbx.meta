@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: 46d225c8640ae1a458d416fe9c551953
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 995472f43119dce47928d2b7220d1f48, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: arcade game_low(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: tube_low
+      parentName: arcade game_low(Clone)
+      position: {x: 0.00000012472105, y: 4.1098437, z: -0.026583489}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: the hatch_low
+      parentName: arcade game_low(Clone)
+      position: {x: 1.0186292, y: -0.7967091, z: -2.56417}
+      rotation: {x: 0.5, y: -0.49999997, z: -0.5, w: -0.5}
+      scale: {x: 100, y: 100, z: 100}
+    - name: tablichka_low
+      parentName: arcade game_low(Clone)
+      position: {x: 0.0038122535, y: 3.997368, z: -0.7425639}
+      rotation: {x: 0.000000021729338, y: 0.0000000023467475, z: 0.10737462, w: 0.99421865}
+      scale: {x: 100, y: 100, z: 100}
+    - name: speakers_low
+      parentName: arcade game_low(Clone)
+      position: {x: -0, y: 0, z: -2.0513358}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: play 2_low
+      parentName: arcade game_low(Clone)
+      position: {x: 0.5275801, y: 1.1830497, z: -0.7344519}
+      rotation: {x: -0.3357633, y: -4.270937e-18, z: 1.0310953e-17, w: 0.9419464}
+      scale: {x: 100, y: 100, z: 100}
+    - name: play 1_low
+      parentName: arcade game_low(Clone)
+      position: {x: 0.5275801, y: 1.2014939, z: -0.71464676}
+      rotation: {x: -0.3357633, y: -4.270937e-18, z: 1.0310953e-17, w: 0.9419464}
+      scale: {x: 100, y: 100, z: 100}
+    - name: panel_low
+      parentName: arcade game_low(Clone)
+      position: {x: 0.29205248, y: 1.3912485, z: -1.3467704}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: name_low
+      parentName: arcade game_low(Clone)
+      position: {x: 0.02115482, y: 4.000705, z: -0.7161594}
+      rotation: {x: 0.000000021729338, y: 0.0000000023467475, z: 0.10737462, w: 0.99421865}
+      scale: {x: 100, y: 100, z: 100}
+    - name: money_low
+      parentName: arcade game_low(Clone)
+      position: {x: -0, y: 0.0020949256, z: -2.0484586}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: gvozd 2_low
+      parentName: arcade game_low(Clone)
+      position: {x: 0.62409836, y: 4.2610097, z: -0.7265995}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 116.92032, y: 116.92032, z: 116.92032}
+    - name: gvozd 1_low
+      parentName: arcade game_low(Clone)
+      position: {x: -0.65026534, y: 4.24588, z: -0.76839316}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: conector 3_low
+      parentName: arcade game_low(Clone)
+      position: {x: -0.61543334, y: 1.6207951, z: -1.2611697}
+      rotation: {x: -0.60366833, y: 0, z: -0, w: 0.79723555}
+      scale: {x: 100, y: 100, z: 100}
+    - name: conector 2_low
+      parentName: arcade game_low(Clone)
+      position: {x: -0.61555773, y: 1.4065292, z: -1.2965105}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: conector 1_low
+      parentName: arcade game_low(Clone)
+      position: {x: 0.00000012472105, y: 0.042529106, z: -1.3308746}
+      rotation: {x: -0.6347884, y: 0, z: -0, w: 0.77268606}
+      scale: {x: 100, y: 100, z: 100}
+    - name: button 9_low
+      parentName: arcade game_low(Clone)
+      position: {x: 0.51630825, y: 1.4287254, z: -1.1894516}
+      rotation: {x: -0.00000013767877, y: 0.7071068, z: 0.70710677, w: 0.00000013767878}
+      scale: {x: 100, y: 100, z: 100}
+    - name: button 8_low
+      parentName: arcade game_low(Clone)
+      position: {x: 0.6659645, y: 1.4324074, z: -1.3391078}
+      rotation: {x: 0.5, y: 0.49999997, z: 0.5, w: -0.5}
+      scale: {x: 100, y: 100, z: 100}
+    - name: button 7_low
+      parentName: arcade game_low(Clone)
+      position: {x: 0.36665213, y: 1.435812, z: -1.3391078}
+      rotation: {x: -0.5000001, y: 0.49999988, z: 0.4999999, w: 0.5000001}
+      scale: {x: 100, y: 100, z: 100}
+    - name: button 6_low
+      parentName: arcade game_low(Clone)
+      position: {x: 0.5159266, y: 1.446336, z: -1.3409622}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: button 5_low
+      parentName: arcade game_low(Clone)
+      position: {x: 0.018217608, y: 1.4323517, z: -1.1541979}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: button 4_low
+      parentName: arcade game_low(Clone)
+      position: {x: 0.68139553, y: 1.4450334, z: -1.4890592}
+      rotation: {x: 0.49738804, y: -0.5025984, z: 0.49738798, w: 0.50259846}
+      scale: {x: 100, y: 100, z: 100}
+    - name: button 14_low
+      parentName: arcade game_low(Clone)
+      position: {x: -0.2806218, y: 1.4450334, z: -1.3556358}
+      rotation: {x: 0.49738804, y: -0.5025984, z: 0.49738798, w: 0.50259846}
+      scale: {x: 100, y: 100, z: 100}
+    - name: button 3_low
+      parentName: arcade game_low(Clone)
+      position: {x: -0.20401023, y: 1.4450334, z: -1.4680499}
+      rotation: {x: 0.49738804, y: -0.5025984, z: 0.49738798, w: 0.50259846}
+      scale: {x: 100, y: 100, z: 100}
+    - name: button 2_low
+      parentName: arcade game_low(Clone)
+      position: {x: -0.07585021, y: 1.4450334, z: -1.3556358}
+      rotation: {x: 0.49738804, y: -0.5025984, z: 0.49738798, w: 0.50259846}
+      scale: {x: 100, y: 100, z: 100}
+    - name: button 13_low
+      parentName: arcade game_low(Clone)
+      position: {x: 0.0007613301, y: 1.4450334, z: -1.4680499}
+      rotation: {x: 0.49738804, y: -0.5025984, z: 0.49738798, w: 0.50259846}
+      scale: {x: 100, y: 100, z: 100}
+    - name: button 11_low
+      parentName: arcade game_low(Clone)
+      position: {x: -0.61628944, y: 1.8537364, z: -1.197513}
+      rotation: {x: -0.60366833, y: 0, z: -0, w: 0.79723555}
+      scale: {x: 100, y: 100, z: 100}
+    - name: button 10_low
+      parentName: arcade game_low(Clone)
+      position: {x: 0.51630825, y: 1.4324074, z: -1.488764}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: button 1_low
+      parentName: arcade game_low(Clone)
+      position: {x: 0.1439675, y: 1.4450334, z: -1.3556358}
+      rotation: {x: 0.49738804, y: -0.5025984, z: 0.49738798, w: 0.50259846}
+      scale: {x: 100, y: 100, z: 100}
+    - name: button 12_low
+      parentName: arcade game_low(Clone)
+      position: {x: 0.22057903, y: 1.4450334, z: -1.4680499}
+      rotation: {x: 0.49738804, y: -0.5025984, z: 0.49738798, w: 0.50259846}
+      scale: {x: 100, y: 100, z: 100}
+    - name: arcade machine_low
+      parentName: arcade game_low(Clone)
+      position: {x: -0, y: 0, z: -2.0513358}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: arca_low
+      parentName: arcade game_low(Clone)
+      position: {x: -0, y: 0, z: -2.0513358}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

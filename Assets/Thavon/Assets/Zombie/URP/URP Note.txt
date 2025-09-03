@@ -1,0 +1,1 @@
+Please note in URP this asset can get slight artifacts with shadows, this can be fixed by turning off cast shadows for the zombie mesh
